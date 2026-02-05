@@ -1,0 +1,15 @@
+# Archives / images not needed for Pages
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+*.7z
+*.rar
+*.iso
+# OS cruft
+.DS_Store
+Thumbs.db
+# Build dirs (if any)
+node_modules/
+dist/
+build/
